@@ -1,5 +1,5 @@
-Ashes Score Updater
+Cricket on Skype!
 
-A simple application using Yahoo! Pipes and Skype API to deliver Ashes cricket match scores via Skyp chat.
+Get cricket match updates on your Skype chat. Thanks [Yahoo! Pipes](https://en.wikipedia.org/wiki/Yahoo!_Pipes).
 
-More details at https://betweencurlybraces.wordpress.com/2015/07/23/rip-yahoo-pipes/
+Read more on my [blog](https://betweencurlybraces.wordpress.com/2015/07/23/rip-yahoo-pipes/).
